@@ -15,4 +15,5 @@ This repository contains code for eye tracking and cursor control using computer
 3. dlib library
 4. imutils library
 5. pyautogui library
-6 .shape_predictor_68_face_landmarks.dat 
+6. shape_predictor_68_face_landmarks.dat (can be downloaded [Link 1](http://dlib.net/files/?C=N;O=D) or [Link 2](https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat))
+
