@@ -1,6 +1,6 @@
 # Eye Tracking and Cursor Control
 
-This repository is an implementation of eye tracking system for cursor control purposes using computer vision. The code utilizes the OpenCV library along with dlib's face detection and shape prediction models to track the eyes and determine the movement of the cursor based on the gaze direction.
+This repository contains code for eye tracking and cursor control using computer vision techniques. The code utilizes the OpenCV library along with dlib's face detection and shape prediction models to track the eyes and determine the movement of the cursor based on the gaze direction.
 
 # Features
 1. Real-time eye tracking: The code tracks the position of the eyes in a live video feed from a webcam.
@@ -16,4 +16,11 @@ This repository is an implementation of eye tracking system for cursor control p
 4. imutils library
 5. pyautogui library
 6. shape_predictor_68_face_landmarks.dat (can be downloaded [Link 1](http://dlib.net/files/?C=N;O=D) or [Link 2](https://www.kaggle.com/datasets/sergiovirahonda/shape-predictor-68-face-landmarksdat))
+
+
+
+
+
+
+https://github.com/K-Hooshanfar/Gaze_Cursor_Control/assets/88427834/3c6a5221-cf77-4576-969a-51382b68d358
 
