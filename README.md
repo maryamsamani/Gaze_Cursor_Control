@@ -1,6 +1,6 @@
 # Eye Tracking and Cursor Control
 
-This repository contains code for eye tracking and cursor control using computer vision techniques. The code utilizes the OpenCV library along with dlib's face detection and shape prediction models to track the eyes and determine the movement of the cursor based on the gaze direction.
+This repository is an implementation of eye tracking system for cursor control purposes using computer vision. The code utilizes the OpenCV library along with dlib's face detection and shape prediction models to track the eyes and determine the movement of the cursor based on the gaze direction.
 
 # Features
 1. Real-time eye tracking: The code tracks the position of the eyes in a live video feed from a webcam.
